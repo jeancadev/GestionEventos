@@ -1,0 +1,46 @@
+﻿@model IEnumerable<GestionEventos.Models.Evento>
+@{
+    ViewData["Title"] = "Eventos";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Eventos</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary mb-3">Crear Nuevo Evento</a>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+                    <th>@Html.DisplayNameFor(model => model.Fecha)</th>
+                    <th>@Html.DisplayNameFor(model => model.HoraInicio)</th>
+                    <th>@Html.DisplayNameFor(model => model.HoraFin)</th>
+                    <th>@Html.DisplayNameFor(model => model.Lugar)</th>
+                    <th>@Html.DisplayNameFor(model => model.Medio)</th>
+                    <th>@Html.DisplayNameFor(model => model.TipoEvento)</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Fecha)</td>
+                        <td>@Html.DisplayFor(modelItem => item.HoraInicio)</td>
+                        <td>@Html.DisplayFor(modelItem => item.HoraFin)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Lugar)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Medio)</td>
+                        <td>@Html.DisplayFor(modelItem => item.TipoEvento)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Editar</a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Detalles</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

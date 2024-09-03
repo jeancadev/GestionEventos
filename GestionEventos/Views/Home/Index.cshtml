@@ -1,0 +1,34 @@
+﻿@model List<GestionEventos.Models.Evento>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a Gestión de Eventos</h1>
+    <p>Aquí puedes administrar tus eventos y invitados.</p>
+</div>
+
+<h2>Próximos Eventos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Fecha</th>
+            <th>Hora</th>
+            <th>Lugar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var evento in Model)
+        {
+            <tr>
+                <td>@evento.Nombre</td>
+                <td>@evento.Fecha.ToShortDateString()</td>
+                <td>@evento.HoraInicio.ToString(@"hh\:mm") - @evento.HoraFin.ToString(@"hh\:mm")</td>
+                <td>@evento.Lugar</td>
+            </tr>
+        }
+    </tbody>
+</table>

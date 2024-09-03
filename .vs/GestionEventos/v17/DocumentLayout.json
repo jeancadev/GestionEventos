@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\suscripciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\suscripciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\suscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\suscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\suscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\suscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\home\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\home\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\invitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\invitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\invitados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\invitados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\invitadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\invitadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\invitados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\invitados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\suscripciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\suscripciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\invitados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\invitados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|c:\\users\\jean carlos\\desktop\\gestioneventos\\gestioneventos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F35FD-ADB5-4CB5-BDD5-11E459B53B18}|GestionEventos\\GestionEventos.csproj|solutionrelative:gestioneventos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Program.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Program.cs",
+              "RelativeToolTip": "GestionEventos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:08:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\SuscripcionesController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\SuscripcionesController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\SuscripcionesController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\SuscripcionesController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0gAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:22:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Suscripcion.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\Suscripcion.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Suscripcion.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\Suscripcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invitado.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Invitado.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\Invitado.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Invitado.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\Invitado.cs",
+              "ViewState": "AQIAAAMAAAB8ZmZmZmYkwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionEventos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\appsettings.json",
+              "RelativeToolTip": "GestionEventos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T17:52:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:59:06.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T18:53:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Suscripciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Suscripciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Suscripciones\\Create.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Suscripciones\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T22:10:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:30:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:23:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvitadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\InvitadosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\InvitadosController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\InvitadosController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\InvitadosController.cs",
+              "ViewState": "AQIAACEAAACALzMzMzMvwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:20:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggedOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Home\\LoggedOut.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Home\\LoggedOut.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Home\\LoggedOut.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Home\\LoggedOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T21:25:59.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAADg/v////84wDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:51:14.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Invitados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Create.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Invitados\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T20:17:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Invitados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Edit.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Invitados\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAmJmZmZnZvzUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T20:18:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T18:33:30.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Invitados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Invitados\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Invitados\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAANDMzMzMLwCsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:56:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Suscripciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Suscripciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Suscripciones\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Suscripciones\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:57:24.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:58:02.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Eventos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Eventos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Eventos\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Eventos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:58:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:58:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\EventosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:19:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:55:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Usuario.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:54.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEventos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionEventos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T18:51:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GestionEventos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:07:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "GestionEventos\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAH0AAAAANTMzMzMvwJEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:16:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Evento.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:18.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "GestionEventos\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Jean Carlos\\Desktop\\GestionEventos\\GestionEventos\\Models\\Categoria.cs",
+              "RelativeToolTip": "GestionEventos\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:01:18.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

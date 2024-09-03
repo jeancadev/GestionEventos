@@ -1,0 +1,66 @@
+﻿@model GestionEventos.Models.Invitado
+
+@{
+    ViewData["Title"] = "Crear Invitado";
+}
+
+<div class="container mt-4">
+    <h1>Crear Nuevo Invitado</h1>
+
+    <form asp-action="Create" asp-controller="Invitados" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="Nombre" class="form-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Profesion" class="form-label"></label>
+                    <input asp-for="Profesion" class="form-control" />
+                    <span asp-validation-for="Profesion" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Entretenimiento" class="form-label"></label>
+                    <input asp-for="Entretenimiento" class="form-control" />
+                    <span asp-validation-for="Entretenimiento" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="Deporte" class="form-label"></label>
+                    <input asp-for="Deporte" class="form-control" />
+                    <span asp-validation-for="Deporte" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Alimentacion" class="form-label"></label>
+                    <input asp-for="Alimentacion" class="form-control" />
+                    <span asp-validation-for="Alimentacion" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="CategoriaId" class="form-label">Categoría</label>
+                    <select asp-for="CategoriaId" class="form-select" asp-items="ViewBag.Categorias"></select>
+                    <span asp-validation-for="CategoriaId" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="mb-3">
+            <input type="submit" value="Crear" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $('form').on('submit', function () {
+                console.log('Formulario enviado');
+            });
+        });
+    </script>
+}

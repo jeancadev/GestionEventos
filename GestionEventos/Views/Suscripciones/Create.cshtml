@@ -1,0 +1,43 @@
+﻿@model GestionEventos.Models.Suscripcion
+
+@{
+    ViewData["Title"] = "Crear Suscripción";
+}
+
+<h1>Crear Suscripción</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InvitadoId" class="control-label">Invitado</label>
+                <select asp-for="InvitadoId" class="form-control" asp-items="ViewBag.Invitados"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventoId" class="control-label">Evento</label>
+                <select asp-for="EventoId" class="form-control" asp-items="ViewBag.Eventos"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaInscripcion" class="control-label"></label>
+                <input asp-for="FechaInscripcion" class="form-control" />
+                <span asp-validation-for="FechaInscripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

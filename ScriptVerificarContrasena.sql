@@ -1,0 +1,1 @@
+SELECT Username, Password, Rol FROM Usuarios;
